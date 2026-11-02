@@ -224,7 +224,7 @@ This project is developed for educational and academic purposes. All patient inf
 
 ## 13. Author
 
-**Sri Lekha**
+**Srilekha Sunil**
 
 B.Sc. Computer Science – Cyber Security
 
